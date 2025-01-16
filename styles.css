@@ -2,6 +2,7 @@
 .holder{
 	display:flex;
 	justify-content:center;
+	justify-content:vertical;
 	flex-wrap:wrap;
 }
 .item{
